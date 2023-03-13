@@ -7,6 +7,12 @@
 h1 {
   margin-left: 2%;
 }
+footer {
+    background-color: #333;
+      color: #fff;
+        text-align: center;
+  padding: 1.5rem;
+}
 /* Global styles */
 body {
   font-family: Arial, sans-serif;
