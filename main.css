@@ -78,6 +78,11 @@ main {
   margin: 1.5rem 0;
   border-radius: 1rem;
 }
+.service img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 40px;
+}
 
 .service h2 {
   font-size: 2rem;
